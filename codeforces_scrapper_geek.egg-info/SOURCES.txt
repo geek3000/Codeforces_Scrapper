@@ -1,0 +1,8 @@
+setup.py
+codeforces_scrapper_geek/__init__.py
+codeforces_scrapper_geek/main.py
+codeforces_scrapper_geek.egg-info/PKG-INFO
+codeforces_scrapper_geek.egg-info/SOURCES.txt
+codeforces_scrapper_geek.egg-info/dependency_links.txt
+codeforces_scrapper_geek.egg-info/requires.txt
+codeforces_scrapper_geek.egg-info/top_level.txt
